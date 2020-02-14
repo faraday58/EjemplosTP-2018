@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploListas\EjemploListas\bin\Debug\EjemploListas.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploListas\EjemploListas\bin\Debug\EjemploListas.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploListas\EjemploListas\bin\Debug\EjemploListas.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploListas\EjemploListas\obj\Debug\EjemploListas.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploListas\EjemploListas\obj\Debug\EjemploListas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploListas\EjemploListas\obj\Debug\EjemploListas.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploListas\EjemploListas\obj\Debug\EjemploListas.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploListas\EjemploListas\bin\Debug\Listas.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploListas\EjemploListas\bin\Debug\Listas.pdb

@@ -1,0 +1,4 @@
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\5.- MetodosDeInstancia\MetodosDeInstancia\bin\Debug\MetodosDeInstancia.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\5.- MetodosDeInstancia\MetodosDeInstancia\bin\Debug\MetodosDeInstancia.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\5.- MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\5.- MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.pdb

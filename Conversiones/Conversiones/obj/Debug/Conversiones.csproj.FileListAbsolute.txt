@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\Conversiones\Conversiones\obj\Debug\Conversiones.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\Conversiones\Conversiones\bin\Debug\Conversiones.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Conversiones\Conversiones\bin\Debug\Conversiones.exe
+c:\users\pc\documents\visual studio 2017\Projects\Conversiones\Conversiones\bin\Debug\Conversiones.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Conversiones\Conversiones\obj\Debug\Conversiones.exe
+c:\users\pc\documents\visual studio 2017\Projects\Conversiones\Conversiones\obj\Debug\Conversiones.pdb

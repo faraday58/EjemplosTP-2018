@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\HolaSaludoForms\HolaSaludoForms\bin\Debug\HolaSaludoForms.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\HolaSaludoForms\HolaSaludoForms\bin\Debug\HolaSaludoForms.exe
+c:\users\pc\documents\visual studio 2017\Projects\HolaSaludoForms\HolaSaludoForms\bin\Debug\HolaSaludoForms.pdb
+c:\users\pc\documents\visual studio 2017\Projects\HolaSaludoForms\HolaSaludoForms\obj\Debug\HolaSaludoForms.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\HolaSaludoForms\HolaSaludoForms\obj\Debug\HolaSaludoForms.exe
+c:\users\pc\documents\visual studio 2017\Projects\HolaSaludoForms\HolaSaludoForms\obj\Debug\HolaSaludoForms.pdb

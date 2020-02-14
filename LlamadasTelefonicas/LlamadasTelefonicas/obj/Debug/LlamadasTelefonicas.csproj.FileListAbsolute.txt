@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\LlamadasTelefonicas\LlamadasTelefonicas\bin\Debug\LlamadasTelefonicas.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\LlamadasTelefonicas\LlamadasTelefonicas\bin\Debug\LlamadasTelefonicas.exe
+c:\users\pc\documents\visual studio 2017\Projects\LlamadasTelefonicas\LlamadasTelefonicas\bin\Debug\LlamadasTelefonicas.pdb
+c:\users\pc\documents\visual studio 2017\Projects\LlamadasTelefonicas\LlamadasTelefonicas\obj\Debug\LlamadasTelefonicas.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\LlamadasTelefonicas\LlamadasTelefonicas\obj\Debug\LlamadasTelefonicas.exe
+c:\users\pc\documents\visual studio 2017\Projects\LlamadasTelefonicas\LlamadasTelefonicas\obj\Debug\LlamadasTelefonicas.pdb

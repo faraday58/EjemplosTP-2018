@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\bin\Debug\ArbolesWindows.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\bin\Debug\ArbolesWindows.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\bin\Debug\ArbolesWindows.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\obj\Debug\ArbolesWindows.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\obj\Debug\ArbolesWindows.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\obj\Debug\ArbolesWindows.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\obj\Debug\ArbolesWindows.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\obj\Debug\ArbolesWindows.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\obj\Debug\ArbolesWindows.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\obj\Debug\ArbolesWindows.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\bin\Debug\Arboles.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\bin\Debug\Arboles.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArbolesWindows\ArbolesWindows\obj\Debug\ArbolesWindows.csproj.CopyComplete

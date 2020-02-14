@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\bin\Debug\FrasesApilamientop.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\bin\Debug\FrasesApilamientop.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\bin\Debug\FrasesApilamientop.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\obj\Debug\FrasesApilamientop.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\obj\Debug\FrasesApilamientop.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\obj\Debug\FrasesApilamientop.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\obj\Debug\FrasesApilamientop.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\obj\Debug\FrasesApilamientop.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\obj\Debug\FrasesApilamientop.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\obj\Debug\FrasesApilamientop.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\bin\Debug\Apilamiento.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\FrasesApilamientop\bin\Debug\Apilamiento.pdb

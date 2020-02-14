@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\segundoParcialNuevoplan2018-1\segundoParcialNuevoplan2018-1\bin\Debug\segundoParcialNuevoplan2018-1.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\segundoParcialNuevoplan2018-1\segundoParcialNuevoplan2018-1\bin\Debug\segundoParcialNuevoplan2018-1.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\segundoParcialNuevoplan2018-1\segundoParcialNuevoplan2018-1\bin\Debug\segundoParcialNuevoplan2018-1.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\segundoParcialNuevoplan2018-1\segundoParcialNuevoplan2018-1\obj\Debug\segundoParcialNuevoplan2018-1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\segundoParcialNuevoplan2018-1\segundoParcialNuevoplan2018-1\obj\Debug\segundoParcialNuevoplan2018_1.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\segundoParcialNuevoplan2018-1\segundoParcialNuevoplan2018-1\obj\Debug\segundoParcialNuevoplan2018_1.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\segundoParcialNuevoplan2018-1\segundoParcialNuevoplan2018-1\obj\Debug\segundoParcialNuevoplan2018-1.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\segundoParcialNuevoplan2018-1\segundoParcialNuevoplan2018-1\obj\Debug\segundoParcialNuevoplan2018-1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\segundoParcialNuevoplan2018-1\segundoParcialNuevoplan2018-1\obj\Debug\segundoParcialNuevoplan2018-1.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\segundoParcialNuevoplan2018-1\segundoParcialNuevoplan2018-1\obj\Debug\segundoParcialNuevoplan2018-1.pdb

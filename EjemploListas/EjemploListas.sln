@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploListas", "EjemploListas\EjemploListas.csproj", "{9A8874F4-B6D6-4D11-855B-9ED67999F366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{E49C5BA1-9E2C-4BFE-AA33-49832F8BF5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A8874F4-B6D6-4D11-855B-9ED67999F366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8874F4-B6D6-4D11-855B-9ED67999F366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8874F4-B6D6-4D11-855B-9ED67999F366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8874F4-B6D6-4D11-855B-9ED67999F366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E49C5BA1-9E2C-4BFE-AA33-49832F8BF5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49C5BA1-9E2C-4BFE-AA33-49832F8BF5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49C5BA1-9E2C-4BFE-AA33-49832F8BF5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49C5BA1-9E2C-4BFE-AA33-49832F8BF5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D435D0F-CA3E-4200-AE02-DB2D42C90215}
+	EndGlobalSection
+EndGlobal

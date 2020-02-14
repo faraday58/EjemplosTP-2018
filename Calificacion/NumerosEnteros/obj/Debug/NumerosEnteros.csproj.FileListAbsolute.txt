@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2017\Projects\Calificacion\NumerosEnteros\bin\Debug\NumerosEnteros.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Calificacion\NumerosEnteros\bin\Debug\NumerosEnteros.exe
+c:\users\pc\documents\visual studio 2017\Projects\Calificacion\NumerosEnteros\bin\Debug\NumerosEnteros.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Calificacion\NumerosEnteros\obj\Debug\NumerosEnteros.exe
+c:\users\pc\documents\visual studio 2017\Projects\Calificacion\NumerosEnteros\obj\Debug\NumerosEnteros.pdb

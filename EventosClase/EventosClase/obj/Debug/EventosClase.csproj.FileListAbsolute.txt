@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosClase\EventosClase\bin\Debug\EventosClase.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosClase\EventosClase\bin\Debug\EventosClase.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosClase\EventosClase\bin\Debug\EventosClase.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosClase\EventosClase\obj\Debug\EventosClase.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosClase\EventosClase\obj\Debug\EventosClase.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosClase\EventosClase\obj\Debug\EventosClase.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosClase\EventosClase\obj\Debug\EventosClase.pdb

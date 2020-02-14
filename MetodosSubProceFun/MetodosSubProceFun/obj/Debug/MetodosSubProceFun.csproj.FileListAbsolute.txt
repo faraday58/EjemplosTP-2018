@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\MetodosSubProceFun\MetodosSubProceFun\bin\Debug\MetodosSubProceFun.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\MetodosSubProceFun\MetodosSubProceFun\bin\Debug\MetodosSubProceFun.exe
+c:\users\pc\documents\visual studio 2017\Projects\MetodosSubProceFun\MetodosSubProceFun\bin\Debug\MetodosSubProceFun.pdb
+c:\users\pc\documents\visual studio 2017\Projects\MetodosSubProceFun\MetodosSubProceFun\obj\Debug\MetodosSubProceFun.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\MetodosSubProceFun\MetodosSubProceFun\obj\Debug\MetodosSubProceFun.exe
+c:\users\pc\documents\visual studio 2017\Projects\MetodosSubProceFun\MetodosSubProceFun\obj\Debug\MetodosSubProceFun.pdb

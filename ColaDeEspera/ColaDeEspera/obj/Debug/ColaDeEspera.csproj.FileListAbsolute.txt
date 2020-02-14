@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\bin\Debug\ColaDeEspera.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\bin\Debug\ColaDeEspera.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\bin\Debug\ColaDeEspera.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\obj\Debug\ColaDeEspera.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\obj\Debug\ColaDeEspera.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\obj\Debug\ColaDeEspera.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\obj\Debug\ColaDeEspera.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\obj\Debug\ColaDeEspera.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\obj\Debug\ColaDeEspera.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\obj\Debug\ColaDeEspera.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\bin\Debug\ColaEspera.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaDeEspera\bin\Debug\ColaEspera.pdb

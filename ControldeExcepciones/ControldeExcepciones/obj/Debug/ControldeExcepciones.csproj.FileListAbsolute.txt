@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ControldeExcepciones\ControldeExcepciones\bin\Debug\ControldeExcepciones.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ControldeExcepciones\ControldeExcepciones\bin\Debug\ControldeExcepciones.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ControldeExcepciones\ControldeExcepciones\bin\Debug\ControldeExcepciones.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ControldeExcepciones\ControldeExcepciones\obj\Debug\ControldeExcepciones.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ControldeExcepciones\ControldeExcepciones\obj\Debug\ControldeExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ControldeExcepciones\ControldeExcepciones\obj\Debug\ControldeExcepciones.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ControldeExcepciones\ControldeExcepciones\obj\Debug\ControldeExcepciones.pdb

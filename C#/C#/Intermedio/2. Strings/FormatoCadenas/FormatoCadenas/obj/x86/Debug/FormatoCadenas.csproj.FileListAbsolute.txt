@@ -1,0 +1,4 @@
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\2. Strings\FormatoCadenas\FormatoCadenas\bin\Debug\FormatoCadenas.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\2. Strings\FormatoCadenas\FormatoCadenas\bin\Debug\FormatoCadenas.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\2. Strings\FormatoCadenas\FormatoCadenas\obj\x86\Debug\FormatoCadenas.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\2. Strings\FormatoCadenas\FormatoCadenas\obj\x86\Debug\FormatoCadenas.pdb

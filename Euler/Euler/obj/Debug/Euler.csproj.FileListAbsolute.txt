@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Euler\Euler\bin\Debug\Euler.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Euler\Euler\bin\Debug\Euler.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Euler\Euler\bin\Debug\Euler.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Euler\Euler\obj\Debug\Euler.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Euler\Euler\obj\Debug\Euler.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Euler\Euler\obj\Debug\Euler.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Euler\Euler\obj\Debug\Euler.pdb

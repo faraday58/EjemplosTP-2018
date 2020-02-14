@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2017\Projects\ControlExcepcionesForm\ControlExcepcionesForm\obj\Debug\ControlExcepcionesForm.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\ControlExcepcionesForm\ControlExcepcionesForm\obj\Debug\ControlExcepcionesForm.Form1.resources
+c:\users\pc\documents\visual studio 2017\Projects\ControlExcepcionesForm\ControlExcepcionesForm\obj\Debug\ControlExcepcionesForm.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\ControlExcepcionesForm\ControlExcepcionesForm\obj\Debug\ControlExcepcionesForm.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\ControlExcepcionesForm\ControlExcepcionesForm\obj\Debug\ControlExcepcionesForm.csproj.CoreCompileInputs.cache
+c:\users\pc\documents\visual studio 2017\Projects\ControlExcepcionesForm\ControlExcepcionesForm\bin\Debug\ControlExcepcionesForm.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\ControlExcepcionesForm\ControlExcepcionesForm\bin\Debug\ControlExcepcionesForm.exe
+c:\users\pc\documents\visual studio 2017\Projects\ControlExcepcionesForm\ControlExcepcionesForm\bin\Debug\ControlExcepcionesForm.pdb
+c:\users\pc\documents\visual studio 2017\Projects\ControlExcepcionesForm\ControlExcepcionesForm\obj\Debug\ControlExcepcionesForm.exe
+c:\users\pc\documents\visual studio 2017\Projects\ControlExcepcionesForm\ControlExcepcionesForm\obj\Debug\ControlExcepcionesForm.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MisColecciones\MisColecciones\bin\Debug\MisColecciones.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MisColecciones\MisColecciones\bin\Debug\MisColecciones.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MisColecciones\MisColecciones\bin\Debug\MisColecciones.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MisColecciones\MisColecciones\obj\Debug\MisColecciones.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MisColecciones\MisColecciones\obj\Debug\MisColecciones.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MisColecciones\MisColecciones\obj\Debug\MisColecciones.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MisColecciones\MisColecciones\obj\Debug\MisColecciones.pdb

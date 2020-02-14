@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MibibliotecaClases\MibibliotecaClases\bin\Debug\MibibliotecaClases.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MibibliotecaClases\MibibliotecaClases\bin\Debug\MibibliotecaClases.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MibibliotecaClases\MibibliotecaClases\bin\Debug\MibibliotecaClases.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MibibliotecaClases\MibibliotecaClases\obj\Debug\MibibliotecaClases.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MibibliotecaClases\MibibliotecaClases\obj\Debug\MibibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MibibliotecaClases\MibibliotecaClases\obj\Debug\MibibliotecaClases.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MibibliotecaClases\MibibliotecaClases\obj\Debug\MibibliotecaClases.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MibibliotecaClases\MibibliotecaClases\bin\Debug\Musica.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MibibliotecaClases\MibibliotecaClases\bin\Debug\Musica.pdb

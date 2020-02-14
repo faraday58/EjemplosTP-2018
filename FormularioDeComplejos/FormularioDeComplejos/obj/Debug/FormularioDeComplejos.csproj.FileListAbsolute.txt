@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2017\Projects\FormularioDeComplejos\FormularioDeComplejos\bin\Debug\FormularioDeComplejos.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\FormularioDeComplejos\FormularioDeComplejos\bin\Debug\FormularioDeComplejos.exe
+c:\users\pc\documents\visual studio 2017\Projects\FormularioDeComplejos\FormularioDeComplejos\bin\Debug\FormularioDeComplejos.pdb
+c:\users\pc\documents\visual studio 2017\Projects\FormularioDeComplejos\FormularioDeComplejos\obj\Debug\FormularioDeComplejos.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\FormularioDeComplejos\FormularioDeComplejos\obj\Debug\FormularioDeComplejos.Form1.resources
+c:\users\pc\documents\visual studio 2017\Projects\FormularioDeComplejos\FormularioDeComplejos\obj\Debug\FormularioDeComplejos.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\FormularioDeComplejos\FormularioDeComplejos\obj\Debug\FormularioDeComplejos.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\FormularioDeComplejos\FormularioDeComplejos\obj\Debug\FormularioDeComplejos.exe
+c:\users\pc\documents\visual studio 2017\Projects\FormularioDeComplejos\FormularioDeComplejos\obj\Debug\FormularioDeComplejos.pdb

@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaEspera\bin\Debug\ColaEspera.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaEspera\bin\Debug\ColaEspera.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaEspera\obj\Debug\ColaEspera.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaEspera\obj\Debug\ColaEspera.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaEspera\obj\Debug\ColaEspera.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ColaDeEspera\ColaEspera\obj\Debug\ColaEspera.pdb

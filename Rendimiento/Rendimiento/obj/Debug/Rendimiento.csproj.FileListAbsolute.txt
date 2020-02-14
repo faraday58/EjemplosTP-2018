@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Rendimiento\Rendimiento\bin\Debug\Rendimiento.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Rendimiento\Rendimiento\bin\Debug\Rendimiento.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Rendimiento\Rendimiento\bin\Debug\Rendimiento.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Rendimiento\Rendimiento\obj\Debug\Rendimiento.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Rendimiento\Rendimiento\obj\Debug\Rendimiento.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Rendimiento\Rendimiento\obj\Debug\Rendimiento.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Rendimiento\Rendimiento\obj\Debug\Rendimiento.pdb

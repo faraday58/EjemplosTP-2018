@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\primero\primero\bin\Debug\primero.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\primero\primero\bin\Debug\primero.exe
+c:\users\pc\documents\visual studio 2017\Projects\primero\primero\bin\Debug\primero.pdb
+c:\users\pc\documents\visual studio 2017\Projects\primero\primero\obj\Debug\primero.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\primero\primero\obj\Debug\primero.exe
+c:\users\pc\documents\visual studio 2017\Projects\primero\primero\obj\Debug\primero.pdb

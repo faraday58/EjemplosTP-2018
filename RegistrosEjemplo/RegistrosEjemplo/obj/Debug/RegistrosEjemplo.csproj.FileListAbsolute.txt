@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\RegistrosEjemplo\RegistrosEjemplo\bin\Debug\RegistrosEjemplo.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\RegistrosEjemplo\RegistrosEjemplo\bin\Debug\RegistrosEjemplo.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\RegistrosEjemplo\RegistrosEjemplo\bin\Debug\RegistrosEjemplo.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\RegistrosEjemplo\RegistrosEjemplo\obj\Debug\RegistrosEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\RegistrosEjemplo\RegistrosEjemplo\obj\Debug\RegistrosEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\RegistrosEjemplo\RegistrosEjemplo\obj\Debug\RegistrosEjemplo.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\RegistrosEjemplo\RegistrosEjemplo\obj\Debug\RegistrosEjemplo.pdb

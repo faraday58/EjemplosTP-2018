@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Fracciones\Fracciones\bin\Debug\Fracciones.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Fracciones\Fracciones\bin\Debug\Fracciones.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Fracciones\Fracciones\bin\Debug\Fracciones.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Fracciones\Fracciones\obj\Debug\Fracciones.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Fracciones\Fracciones\obj\Debug\Fracciones.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Fracciones\Fracciones\obj\Debug\Fracciones.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Fracciones\Fracciones\obj\Debug\Fracciones.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Fracciones\Fracciones\obj\Debug\Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Fracciones\Fracciones\obj\Debug\Fracciones.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Fracciones\Fracciones\obj\Debug\Fracciones.pdb

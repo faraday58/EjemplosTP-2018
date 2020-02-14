@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calificacion", "Calificacion\Calificacion.csproj", "{16702C39-C3DB-447F-8F80-C024341E06ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosEnteros", "NumerosEnteros\NumerosEnteros.csproj", "{D3099F8E-E921-48F8-A174-38A4D6B51EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16702C39-C3DB-447F-8F80-C024341E06ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16702C39-C3DB-447F-8F80-C024341E06ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16702C39-C3DB-447F-8F80-C024341E06ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16702C39-C3DB-447F-8F80-C024341E06ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3099F8E-E921-48F8-A174-38A4D6B51EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3099F8E-E921-48F8-A174-38A4D6B51EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3099F8E-E921-48F8-A174-38A4D6B51EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3099F8E-E921-48F8-A174-38A4D6B51EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

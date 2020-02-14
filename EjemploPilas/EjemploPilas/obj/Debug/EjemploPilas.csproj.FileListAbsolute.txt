@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploPilas\EjemploPilas\bin\Debug\EjemploPilas.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploPilas\EjemploPilas\bin\Debug\EjemploPilas.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploPilas\EjemploPilas\bin\Debug\EjemploPilas.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploPilas\EjemploPilas\obj\Debug\EjemploPilas.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploPilas\EjemploPilas\obj\Debug\EjemploPilas.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploPilas\EjemploPilas\obj\Debug\EjemploPilas.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploPilas\EjemploPilas\obj\Debug\EjemploPilas.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploPilas\EjemploPilas\obj\Debug\EjemploPilas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploPilas\EjemploPilas\obj\Debug\EjemploPilas.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemploPilas\EjemploPilas\obj\Debug\EjemploPilas.pdb

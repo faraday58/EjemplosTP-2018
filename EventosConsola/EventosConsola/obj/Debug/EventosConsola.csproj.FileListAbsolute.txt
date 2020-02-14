@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosConsola\EventosConsola\bin\Debug\EventosConsola.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosConsola\EventosConsola\bin\Debug\EventosConsola.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosConsola\EventosConsola\bin\Debug\EventosConsola.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosConsola\EventosConsola\obj\Debug\EventosConsola.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosConsola\EventosConsola\obj\Debug\EventosConsola.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosConsola\EventosConsola\obj\Debug\EventosConsola.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosConsola\EventosConsola\obj\Debug\EventosConsola.pdb

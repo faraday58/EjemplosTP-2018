@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FormularioLista\ListaServicios\bin\Debug\ListaServicios.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FormularioLista\ListaServicios\bin\Debug\ListaServicios.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FormularioLista\ListaServicios\obj\Debug\ListaServicios.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FormularioLista\ListaServicios\obj\Debug\ListaServicios.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FormularioLista\ListaServicios\obj\Debug\ListaServicios.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FormularioLista\ListaServicios\obj\Debug\ListaServicios.pdb

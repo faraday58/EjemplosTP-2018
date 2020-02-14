@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2017\Projects\FormularioSaludos\FormularioSaludos\bin\Debug\FormularioSaludos.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\FormularioSaludos\FormularioSaludos\bin\Debug\FormularioSaludos.exe
+c:\users\pc\documents\visual studio 2017\Projects\FormularioSaludos\FormularioSaludos\bin\Debug\FormularioSaludos.pdb
+c:\users\pc\documents\visual studio 2017\Projects\FormularioSaludos\FormularioSaludos\obj\Debug\FormularioSaludos.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\FormularioSaludos\FormularioSaludos\obj\Debug\FormularioSaludos.Form1.resources
+c:\users\pc\documents\visual studio 2017\Projects\FormularioSaludos\FormularioSaludos\obj\Debug\FormularioSaludos.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\FormularioSaludos\FormularioSaludos\obj\Debug\FormularioSaludos.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\FormularioSaludos\FormularioSaludos\obj\Debug\FormularioSaludos.exe
+c:\users\pc\documents\visual studio 2017\Projects\FormularioSaludos\FormularioSaludos\obj\Debug\FormularioSaludos.pdb

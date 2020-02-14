@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArhcivosFormulario\ArhcivosFormulario\bin\Debug\ArhcivosFormulario.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArhcivosFormulario\ArhcivosFormulario\bin\Debug\ArhcivosFormulario.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArhcivosFormulario\ArhcivosFormulario\bin\Debug\ArhcivosFormulario.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArhcivosFormulario\ArhcivosFormulario\obj\Debug\ArchivoNombre.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArhcivosFormulario\ArhcivosFormulario\obj\Debug\ArhcivosFormulario.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArhcivosFormulario\ArhcivosFormulario\obj\Debug\ArhcivosFormulario.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArhcivosFormulario\ArhcivosFormulario\obj\Debug\ArchivoNombre.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArhcivosFormulario\ArhcivosFormulario\obj\Debug\ArchivoNombre.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArhcivosFormulario\ArhcivosFormulario\obj\Debug\ArhcivosFormulario.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ArhcivosFormulario\ArhcivosFormulario\obj\Debug\ArhcivosFormulario.pdb

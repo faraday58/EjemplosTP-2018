@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\Promedio\bin\Debug\Promedio.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\Promedio\bin\Debug\Promedio.exe
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\Promedio\bin\Debug\Promedio.pdb
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\Promedio\obj\Debug\Promedio.exe
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\Promedio\obj\Debug\Promedio.pdb

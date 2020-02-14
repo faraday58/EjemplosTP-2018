@@ -1,0 +1,8 @@
+c:\users\pc\documents\visual studio 2017\Projects\HolaFormsRecupera\HolaFormsRecupera\bin\Debug\HolaFormsRecupera.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\HolaFormsRecupera\HolaFormsRecupera\bin\Debug\HolaFormsRecupera.exe
+c:\users\pc\documents\visual studio 2017\Projects\HolaFormsRecupera\HolaFormsRecupera\bin\Debug\HolaFormsRecupera.pdb
+c:\users\pc\documents\visual studio 2017\Projects\HolaFormsRecupera\HolaFormsRecupera\obj\Debug\HolaFormsRecupera.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\HolaFormsRecupera\HolaFormsRecupera\obj\Debug\HolaFormsRecupera.exe
+c:\users\pc\documents\visual studio 2017\Projects\HolaFormsRecupera\HolaFormsRecupera\obj\Debug\HolaFormsRecupera.pdb
+c:\users\pc\documents\visual studio 2017\Projects\HolaFormsRecupera\HolaFormsRecupera\obj\Debug\HolaSaludoForms.HolaSaludoForms.resources
+c:\users\pc\documents\visual studio 2017\Projects\HolaFormsRecupera\HolaFormsRecupera\obj\Debug\HolaFormsRecupera.csproj.GenerateResource.Cache

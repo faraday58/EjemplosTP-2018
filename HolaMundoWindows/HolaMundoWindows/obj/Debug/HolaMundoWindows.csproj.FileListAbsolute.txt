@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\HolaMundoWindows\HolaMundoWindows\bin\Debug\HolaMundoWindows.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\HolaMundoWindows\HolaMundoWindows\bin\Debug\HolaMundoWindows.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\HolaMundoWindows\HolaMundoWindows\bin\Debug\HolaMundoWindows.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.pdb

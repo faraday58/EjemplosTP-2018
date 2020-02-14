@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Transportes\bin\Debug\Transportes.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Transportes\bin\Debug\Transportes.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Transportes\bin\Debug\Transportes.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Transportes\obj\Debug\Transportes.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Transportes\obj\Debug\Transportes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Transportes\obj\Debug\Transportes.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Transportes\obj\Debug\Transportes.pdb

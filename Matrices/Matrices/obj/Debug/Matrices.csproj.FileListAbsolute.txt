@@ -1,0 +1,7 @@
+c:\users\pc\documents\visual studio 2017\Projects\Matrices\Matrices\bin\Debug\Matrices.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Matrices\Matrices\bin\Debug\Matrices.exe
+c:\users\pc\documents\visual studio 2017\Projects\Matrices\Matrices\bin\Debug\Matrices.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+c:\users\pc\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.exe
+c:\users\pc\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.pdb

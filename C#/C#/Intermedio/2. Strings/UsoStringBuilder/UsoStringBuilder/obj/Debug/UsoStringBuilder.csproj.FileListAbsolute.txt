@@ -1,0 +1,7 @@
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\2. Strings\UsoStringBuilder\UsoStringBuilder\bin\Debug\UsoStringBuilder.exe.config
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\2. Strings\UsoStringBuilder\UsoStringBuilder\bin\Debug\UsoStringBuilder.exe.config
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\2. Strings\UsoStringBuilder\UsoStringBuilder\bin\Debug\UsoStringBuilder.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\2. Strings\UsoStringBuilder\UsoStringBuilder\bin\Debug\UsoStringBuilder.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\2. Strings\UsoStringBuilder\UsoStringBuilder\obj\Debug\UsoStringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\2. Strings\UsoStringBuilder\UsoStringBuilder\obj\Debug\UsoStringBuilder.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\2. Strings\UsoStringBuilder\UsoStringBuilder\obj\Debug\UsoStringBuilder.pdb

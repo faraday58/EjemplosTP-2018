@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\HacermiGelatina\HacermiGelatina\bin\Debug\HacermiGelatina.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\HacermiGelatina\HacermiGelatina\bin\Debug\HacermiGelatina.exe
+c:\users\pc\documents\visual studio 2017\Projects\HacermiGelatina\HacermiGelatina\bin\Debug\HacermiGelatina.pdb
+c:\users\pc\documents\visual studio 2017\Projects\HacermiGelatina\HacermiGelatina\obj\Debug\HacermiGelatina.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\HacermiGelatina\HacermiGelatina\obj\Debug\HacermiGelatina.exe
+c:\users\pc\documents\visual studio 2017\Projects\HacermiGelatina\HacermiGelatina\obj\Debug\HacermiGelatina.pdb

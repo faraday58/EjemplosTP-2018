@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\ListasMusica\bin\Debug\ListasMusica.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\ListasMusica\bin\Debug\ListasMusica.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\ListasMusica\bin\Debug\ListasMusica.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\ListasMusica\obj\Debug\ListasMusica.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\ListasMusica\obj\Debug\ListasMusica.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\ListasMusica\obj\Debug\ListasMusica.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\ListasMusica\obj\Debug\ListasMusica.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\ListasMusica\obj\Debug\ListasMusica.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\ListasMusica\obj\Debug\ListasMusica.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\ListasMusica\obj\Debug\ListasMusica.pdb

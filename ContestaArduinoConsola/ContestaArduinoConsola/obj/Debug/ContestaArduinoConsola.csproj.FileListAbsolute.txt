@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduinoConsola\ContestaArduinoConsola\bin\Debug\ContestaArduinoConsola.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduinoConsola\ContestaArduinoConsola\bin\Debug\ContestaArduinoConsola.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduinoConsola\ContestaArduinoConsola\bin\Debug\ContestaArduinoConsola.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduinoConsola\ContestaArduinoConsola\obj\Debug\ContestaArduinoConsola.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduinoConsola\ContestaArduinoConsola\obj\Debug\ContestaArduinoConsola.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduinoConsola\ContestaArduinoConsola\obj\Debug\ContestaArduinoConsola.pdb

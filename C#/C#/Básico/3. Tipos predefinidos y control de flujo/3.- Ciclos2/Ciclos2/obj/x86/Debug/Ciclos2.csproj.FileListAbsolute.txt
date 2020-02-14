@@ -1,0 +1,5 @@
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\3. Tipos predefinidos y control de flujo\3.- Ciclos2\Ciclos2\bin\Debug\Ciclos2.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\3. Tipos predefinidos y control de flujo\3.- Ciclos2\Ciclos2\bin\Debug\Ciclos2.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\3. Tipos predefinidos y control de flujo\3.- Ciclos2\Ciclos2\obj\x86\Debug\Ciclos2.csprojResolveAssemblyReference.cache
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\3. Tipos predefinidos y control de flujo\3.- Ciclos2\Ciclos2\obj\x86\Debug\Ciclos2.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\3. Tipos predefinidos y control de flujo\3.- Ciclos2\Ciclos2\obj\x86\Debug\Ciclos2.pdb

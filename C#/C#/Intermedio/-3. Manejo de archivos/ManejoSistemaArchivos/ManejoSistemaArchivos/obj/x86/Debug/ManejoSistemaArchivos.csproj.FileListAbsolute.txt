@@ -1,0 +1,9 @@
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\4. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\bin\Debug\ManejoSistemaArchivos.exe
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\4. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\bin\Debug\ManejoSistemaArchivos.pdb
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\4. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\4. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.exe
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\4. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\-3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\-3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.pdb

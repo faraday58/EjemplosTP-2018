@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\Apilamiento\bin\Debug\Apilamiento.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\Apilamiento\bin\Debug\Apilamiento.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\Apilamiento\obj\Debug\Apilamiento.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\Apilamiento\obj\Debug\Apilamiento.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\Apilamiento\obj\Debug\Apilamiento.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\FrasesApilamientop\Apilamiento\obj\Debug\Apilamiento.pdb

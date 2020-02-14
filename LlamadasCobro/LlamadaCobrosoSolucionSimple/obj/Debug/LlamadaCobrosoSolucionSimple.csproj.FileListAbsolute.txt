@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadaCobrosoSolucionSimple\bin\Debug\LlamadaCobrosoSolucionSimple.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadaCobrosoSolucionSimple\bin\Debug\LlamadaCobrosoSolucionSimple.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadaCobrosoSolucionSimple\bin\Debug\LlamadaCobrosoSolucionSimple.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadaCobrosoSolucionSimple\obj\Debug\LlamadaCobrosoSolucionSimple.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadaCobrosoSolucionSimple\obj\Debug\LlamadaCobrosoSolucionSimple.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadaCobrosoSolucionSimple\obj\Debug\LlamadaCobrosoSolucionSimple.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadaCobrosoSolucionSimple\obj\Debug\LlamadaCobrosoSolucionSimple.pdb

@@ -1,0 +1,12 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\Propiedades\Propiedades\bin\Debug\Propiedades.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\Propiedades\Propiedades\bin\Debug\Propiedades.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\Propiedades\Propiedades\obj\x86\Debug\Propiedades.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\Propiedades\Propiedades\obj\x86\Debug\Propiedades.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\Propiedades\Propiedades\obj\x86\Debug\Propiedades.pdb
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\5. Clases y Objetos\Propiedades\Propiedades\obj\x86\Debug\Propiedades.exe
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\5. Clases y Objetos\Propiedades\Propiedades\obj\x86\Debug\Propiedades.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\4.- Propiedades\Propiedades\obj\x86\Debug\Propiedades.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\4.- Propiedades\Propiedades\obj\x86\Debug\Propiedades.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\4.- Propiedades\Propiedades\bin\Debug\Propiedades.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\4.- Propiedades\Propiedades\bin\Debug\Propiedades.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\4.- Propiedades\Propiedades\obj\x86\Debug\Propiedades.csprojResolveAssemblyReference.cache

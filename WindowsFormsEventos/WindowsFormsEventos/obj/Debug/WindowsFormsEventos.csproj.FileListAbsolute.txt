@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\bin\Debug\WindowsFormsEventos.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\bin\Debug\WindowsFormsEventos.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\bin\Debug\WindowsFormsEventos.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\obj\Debug\WindowsFormsEventos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\obj\Debug\WindowsFormsEventos.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\obj\Debug\WindowsFormsEventos.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\obj\Debug\WindowsFormsEventos.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\obj\Debug\WindowsFormsEventos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\obj\Debug\WindowsFormsEventos.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\obj\Debug\WindowsFormsEventos.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsFormsEventos\WindowsFormsEventos\obj\Debug\WindowsFormsEventos.Llaves.resources

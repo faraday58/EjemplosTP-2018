@@ -1,0 +1,22 @@
+C:\Users\proteco\Desktop\Graficar\Graficar\bin\Debug\Graficar.exe.config
+C:\Users\AlonsoV\Documents\Visual Studio 2012\Projects\Graficar\Graficar\bin\Debug\Graficar.exe.config
+C:\Users\AlonsoV\Documents\Visual Studio 2012\Projects\Graficar\Graficar\bin\Debug\Graficar.exe
+C:\Users\AlonsoV\Documents\Visual Studio 2012\Projects\Graficar\Graficar\bin\Debug\Graficar.pdb
+C:\Users\AlonsoV\Documents\Visual Studio 2012\Projects\Graficar\Graficar\obj\Debug\Graficar.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Documents\Visual Studio 2012\Projects\Graficar\Graficar\obj\Debug\Graficar.Form1.resources
+C:\Users\AlonsoV\Documents\Visual Studio 2012\Projects\Graficar\Graficar\obj\Debug\Graficar.Properties.Resources.resources
+C:\Users\AlonsoV\Documents\Visual Studio 2012\Projects\Graficar\Graficar\obj\Debug\Graficar.csproj.GenerateResource.Cache
+C:\Users\AlonsoV\Documents\Visual Studio 2012\Projects\Graficar\Graficar\obj\Debug\Graficar.exe
+C:\Users\AlonsoV\Documents\Visual Studio 2012\Projects\Graficar\Graficar\obj\Debug\Graficar.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C#Avanzado\2.- Controles Básicos\Graficar(Panel)\Graficar\bin\Debug\Graficar.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C#Avanzado\2.- Controles Básicos\Graficar(Panel)\Graficar\obj\Debug\Graficar.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C#Avanzado\2.- Controles Básicos\Graficar(Panel)\Graficar\obj\Debug\Graficar.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C#Avanzado\2.- Controles Básicos\Graficar(Panel)\Graficar\bin\Debug\Graficar.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C#Avanzado\2.- Controles Básicos\Graficar(Panel)\Graficar\bin\Debug\Graficar.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C#Avanzado\2.- Controles Básicos\Graficar(Panel)\Graficar\obj\Debug\Graficar.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C#Avanzado\2.- Controles Básicos\Graficar(Panel)\Graficar\obj\Debug\Graficar.Form1.resources
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C#Avanzado\2.- Controles Básicos\Graficar(Panel)\Graficar\obj\Debug\Graficar.Properties.Resources.resources
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C#Avanzado\2.- Controles Básicos\Graficar(Panel)\Graficar\obj\Debug\Graficar.csproj.GenerateResource.Cache
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C#Avanzado\3. Controles Básicos\Graficar(Panel)\Graficar\bin\Debug\Graficar.exe.config
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C#Avanzado\3. Controles Básicos\Graficar(Panel)\Graficar\obj\Debug\Graficar.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C#Avanzado\3. Controles Básicos\Graficar(Panel)\Graficar\obj\Debug\Graficar.pdb

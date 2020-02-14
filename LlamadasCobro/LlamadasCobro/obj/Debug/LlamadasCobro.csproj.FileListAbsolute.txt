@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadasCobro\bin\Debug\LlamadasCobro.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadasCobro\bin\Debug\LlamadasCobro.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadasCobro\bin\Debug\LlamadasCobro.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadasCobro\obj\Debug\LlamadasCobro.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadasCobro\obj\Debug\LlamadasCobro.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadasCobro\obj\Debug\LlamadasCobro.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\LlamadasCobro\LlamadasCobro\obj\Debug\LlamadasCobro.pdb

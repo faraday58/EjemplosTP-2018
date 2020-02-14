@@ -1,0 +1,7 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\ExcepcionesPropias\ExcepcionesPropias\bin\Debug\ExcepcionesPropias.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\ExcepcionesPropias\ExcepcionesPropias\bin\Debug\ExcepcionesPropias.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\ExcepcionesPropias\ExcepcionesPropias\obj\x86\Debug\ExcepcionesPropias.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\ExcepcionesPropias\ExcepcionesPropias\obj\x86\Debug\ExcepcionesPropias.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\ExcepcionesPropias\ExcepcionesPropias\obj\x86\Debug\ExcepcionesPropias.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\-1. Excepciones\3.- ExcepcionesPropias\ExcepcionesPropias\obj\x86\Debug\ExcepcionesPropias.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Intermedio\-1. Excepciones\3.- ExcepcionesPropias\ExcepcionesPropias\obj\x86\Debug\ExcepcionesPropias.pdb

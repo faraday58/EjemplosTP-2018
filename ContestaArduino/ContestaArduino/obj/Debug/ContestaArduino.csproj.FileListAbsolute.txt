@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduino\ContestaArduino\bin\Debug\ContestaArduino.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduino\ContestaArduino\bin\Debug\ContestaArduino.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduino\ContestaArduino\bin\Debug\ContestaArduino.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduino\ContestaArduino\obj\Debug\ContestaArduino.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduino\ContestaArduino\obj\Debug\ContestaArduino.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduino\ContestaArduino\obj\Debug\ContestaArduino.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduino\ContestaArduino\obj\Debug\ContestaArduino.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduino\ContestaArduino\obj\Debug\ContestaArduino.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduino\ContestaArduino\obj\Debug\ContestaArduino.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ContestaArduino\ContestaArduino\obj\Debug\ContestaArduino.pdb

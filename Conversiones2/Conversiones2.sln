@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversiones2", "Conversiones2\Conversiones2.csproj", "{98C83486-40DC-449C-8691-12DBCD6ABC5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transportes", "Transportes\Transportes.csproj", "{E8BD3BD7-5F98-42B8-943C-2530F57BCFB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C83486-40DC-449C-8691-12DBCD6ABC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C83486-40DC-449C-8691-12DBCD6ABC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C83486-40DC-449C-8691-12DBCD6ABC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C83486-40DC-449C-8691-12DBCD6ABC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BD3BD7-5F98-42B8-943C-2530F57BCFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BD3BD7-5F98-42B8-943C-2530F57BCFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BD3BD7-5F98-42B8-943C-2530F57BCFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BD3BD7-5F98-42B8-943C-2530F57BCFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B0304C3-F91F-458D-ACF8-B51F18AAD546}
+	EndGlobalSection
+EndGlobal

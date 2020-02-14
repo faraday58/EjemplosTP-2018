@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosyDelegados\EventosyDelegados\bin\Debug\EventosyDelegados.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosyDelegados\EventosyDelegados\bin\Debug\EventosyDelegados.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosyDelegados\EventosyDelegados\bin\Debug\EventosyDelegados.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosyDelegados\EventosyDelegados\obj\Debug\EventosyDelegados.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosyDelegados\EventosyDelegados\obj\Debug\EventosyDelegados.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosyDelegados\EventosyDelegados\obj\Debug\EventosyDelegados.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EventosyDelegados\EventosyDelegados\obj\Debug\EventosyDelegados.pdb

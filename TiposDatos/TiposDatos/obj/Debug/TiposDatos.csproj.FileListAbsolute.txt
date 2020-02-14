@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\TiposDatos\bin\Debug\TiposDatos.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\TiposDatos\bin\Debug\TiposDatos.exe
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\TiposDatos\bin\Debug\TiposDatos.pdb
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\TiposDatos\obj\Debug\TiposDatos.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\TiposDatos\obj\Debug\TiposDatos.exe
+c:\users\pc\documents\visual studio 2017\Projects\TiposDatos\TiposDatos\obj\Debug\TiposDatos.pdb

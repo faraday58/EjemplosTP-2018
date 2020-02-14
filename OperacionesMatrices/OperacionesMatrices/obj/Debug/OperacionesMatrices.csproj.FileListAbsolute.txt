@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.pdb

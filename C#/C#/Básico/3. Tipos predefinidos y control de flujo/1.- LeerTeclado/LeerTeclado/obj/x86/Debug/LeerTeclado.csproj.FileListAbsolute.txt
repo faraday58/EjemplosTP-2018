@@ -1,0 +1,4 @@
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\3. Tipos predefinidos y control de flujo\1.- LeerTeclado\LeerTeclado\bin\Debug\LeerTeclado.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\3. Tipos predefinidos y control de flujo\1.- LeerTeclado\LeerTeclado\bin\Debug\LeerTeclado.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\3. Tipos predefinidos y control de flujo\1.- LeerTeclado\LeerTeclado\obj\x86\Debug\LeerTeclado.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\3. Tipos predefinidos y control de flujo\1.- LeerTeclado\LeerTeclado\obj\x86\Debug\LeerTeclado.pdb

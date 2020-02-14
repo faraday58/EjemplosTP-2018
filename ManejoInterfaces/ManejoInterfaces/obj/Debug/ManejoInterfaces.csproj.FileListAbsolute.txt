@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ManejoInterfaces\ManejoInterfaces\bin\Debug\ManejoInterfaces.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ManejoInterfaces\ManejoInterfaces\bin\Debug\ManejoInterfaces.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ManejoInterfaces\ManejoInterfaces\bin\Debug\ManejoInterfaces.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ManejoInterfaces\ManejoInterfaces\obj\Debug\ManejoInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ManejoInterfaces\ManejoInterfaces\obj\Debug\ManejoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ManejoInterfaces\ManejoInterfaces\obj\Debug\ManejoInterfaces.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ManejoInterfaces\ManejoInterfaces\obj\Debug\ManejoInterfaces.pdb

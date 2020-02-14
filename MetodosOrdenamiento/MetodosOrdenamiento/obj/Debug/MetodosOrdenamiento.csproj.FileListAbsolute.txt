@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MetodosOrdenamiento\MetodosOrdenamiento\bin\Debug\MetodosOrdenamiento.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MetodosOrdenamiento\MetodosOrdenamiento\bin\Debug\MetodosOrdenamiento.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MetodosOrdenamiento\MetodosOrdenamiento\bin\Debug\MetodosOrdenamiento.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MetodosOrdenamiento\MetodosOrdenamiento\obj\Debug\MetodosOrdenamiento.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MetodosOrdenamiento\MetodosOrdenamiento\obj\Debug\MetodosOrdenamiento.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MetodosOrdenamiento\MetodosOrdenamiento\obj\Debug\MetodosOrdenamiento.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MetodosOrdenamiento\MetodosOrdenamiento\obj\Debug\MetodosOrdenamiento.pdb

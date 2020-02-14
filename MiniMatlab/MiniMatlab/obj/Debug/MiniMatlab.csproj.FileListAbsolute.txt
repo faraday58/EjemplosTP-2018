@@ -1,0 +1,7 @@
+c:\users\pc\documents\visual studio 2017\Projects\MiniMatlab\MiniMatlab\bin\Debug\MiniMatlab.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\MiniMatlab\MiniMatlab\bin\Debug\MiniMatlab.exe
+c:\users\pc\documents\visual studio 2017\Projects\MiniMatlab\MiniMatlab\bin\Debug\MiniMatlab.pdb
+c:\users\pc\documents\visual studio 2017\Projects\MiniMatlab\MiniMatlab\obj\Debug\MiniMatlab.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\MiniMatlab\MiniMatlab\obj\Debug\MiniMatlab.csproj.CoreCompileInputs.cache
+c:\users\pc\documents\visual studio 2017\Projects\MiniMatlab\MiniMatlab\obj\Debug\MiniMatlab.exe
+c:\users\pc\documents\visual studio 2017\Projects\MiniMatlab\MiniMatlab\obj\Debug\MiniMatlab.pdb

@@ -1,0 +1,16 @@
+C:\Users\Jorge Luis\Desktop\Curso gato\JorgePadEjemplo\JorgePadEjemplo\bin\Debug\JorgePadEjemplo.exe.config
+C:\Users\Jorge Luis\Desktop\Curso gato\JorgePadEjemplo\JorgePadEjemplo\bin\Debug\JorgePadEjemplo.exe
+C:\Users\Jorge Luis\Desktop\Curso gato\JorgePadEjemplo\JorgePadEjemplo\bin\Debug\JorgePadEjemplo.pdb
+C:\Users\Jorge Luis\Desktop\Curso gato\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Luis\Desktop\Curso gato\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.Form1.resources
+C:\Users\Jorge Luis\Desktop\Curso gato\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.Properties.Resources.resources
+C:\Users\Jorge Luis\Desktop\Curso gato\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.csproj.GenerateResource.Cache
+C:\Users\Jorge Luis\Desktop\Curso gato\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.exe
+C:\Users\Jorge Luis\Desktop\Curso gato\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.pdb
+C:\Users\Jorge Luis\Desktop\Curso gato\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.Form2.resources
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\3.- Controles Avanzados\JorgePadEjemplo\JorgePadEjemplo\bin\Debug\JorgePadEjemplo.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\3.- Controles Avanzados\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\3.- Controles Avanzados\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C#Avanzado\4. Controles Avanzados\JorgePadEjemplo\JorgePadEjemplo\bin\Debug\JorgePadEjemplo.exe.config
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C#Avanzado\4. Controles Avanzados\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C#Avanzado\4. Controles Avanzados\JorgePadEjemplo\JorgePadEjemplo\obj\Debug\JorgePadEjemplo.pdb

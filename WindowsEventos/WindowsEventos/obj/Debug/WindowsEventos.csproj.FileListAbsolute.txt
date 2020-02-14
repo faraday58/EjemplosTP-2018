@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsEventos\WindowsEventos\bin\Debug\WindowsEventos.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsEventos\WindowsEventos\bin\Debug\WindowsEventos.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsEventos\WindowsEventos\bin\Debug\WindowsEventos.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsEventos\WindowsEventos\obj\Debug\WindowsEventos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsEventos\WindowsEventos\obj\Debug\WindowsEventos.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsEventos\WindowsEventos\obj\Debug\WindowsEventos.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsEventos\WindowsEventos\obj\Debug\WindowsEventos.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsEventos\WindowsEventos\obj\Debug\WindowsEventos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsEventos\WindowsEventos\obj\Debug\WindowsEventos.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\WindowsEventos\WindowsEventos\obj\Debug\WindowsEventos.pdb

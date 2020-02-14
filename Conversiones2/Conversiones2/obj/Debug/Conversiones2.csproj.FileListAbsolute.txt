@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Conversiones2\bin\Debug\Conversiones2.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Conversiones2\bin\Debug\Conversiones2.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Conversiones2\bin\Debug\Conversiones2.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Conversiones2\obj\Debug\Conversiones2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Conversiones2\obj\Debug\Conversiones2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Conversiones2\obj\Debug\Conversiones2.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Conversiones2\Conversiones2\obj\Debug\Conversiones2.pdb

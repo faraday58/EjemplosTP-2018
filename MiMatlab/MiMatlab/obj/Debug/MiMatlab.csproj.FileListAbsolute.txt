@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MiMatlab\MiMatlab\bin\Debug\MiMatlab.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MiMatlab\MiMatlab\bin\Debug\MiMatlab.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MiMatlab\MiMatlab\bin\Debug\MiMatlab.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MiMatlab\MiMatlab\obj\Debug\MiMatlab.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MiMatlab\MiMatlab\obj\Debug\MiMatlab.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MiMatlab\MiMatlab\obj\Debug\MiMatlab.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\MiMatlab\MiMatlab\obj\Debug\MiMatlab.pdb

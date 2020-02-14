@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\Automovil\Automovil\bin\Debug\Automovil.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Automovil\Automovil\bin\Debug\Automovil.exe
+c:\users\pc\documents\visual studio 2017\Projects\Automovil\Automovil\bin\Debug\Automovil.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Automovil\Automovil\obj\Debug\Automovil.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\Automovil\Automovil\obj\Debug\Automovil.exe
+c:\users\pc\documents\visual studio 2017\Projects\Automovil\Automovil\obj\Debug\Automovil.pdb

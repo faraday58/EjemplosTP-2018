@@ -1,0 +1,5 @@
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\bin\Debug\Estructuras.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\bin\Debug\Estructuras.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\obj\x86\Debug\Estructuras.csprojResolveAssemblyReference.cache
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\obj\x86\Debug\Estructuras.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\obj\x86\Debug\Estructuras.pdb

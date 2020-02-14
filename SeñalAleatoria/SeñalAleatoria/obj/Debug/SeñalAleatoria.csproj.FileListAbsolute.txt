@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\SeñalAleatoria\SeñalAleatoria\bin\Debug\SeñalAleatoria.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\SeñalAleatoria\SeñalAleatoria\bin\Debug\SeñalAleatoria.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\SeñalAleatoria\SeñalAleatoria\bin\Debug\SeñalAleatoria.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\SeñalAleatoria\SeñalAleatoria\obj\Debug\SeñalAleatoria.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\SeñalAleatoria\SeñalAleatoria\obj\Debug\SeñalAleatoria.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\SeñalAleatoria\SeñalAleatoria\obj\Debug\SeñalAleatoria.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\SeñalAleatoria\SeñalAleatoria\obj\Debug\SeñalAleatoria.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\SeñalAleatoria\SeñalAleatoria\obj\Debug\SeñalAleatoria.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\SeñalAleatoria\SeñalAleatoria\obj\Debug\SeñalAleatoria.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\SeñalAleatoria\SeñalAleatoria\obj\Debug\SeñalAleatoria.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemplosEstructura\EjemplosEstructura\bin\Debug\EjemplosEstructura.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemplosEstructura\EjemplosEstructura\bin\Debug\EjemplosEstructura.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemplosEstructura\EjemplosEstructura\bin\Debug\EjemplosEstructura.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemplosEstructura\EjemplosEstructura\obj\Debug\EjemplosEstructura.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemplosEstructura\EjemplosEstructura\obj\Debug\EjemplosEstructura.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemplosEstructura\EjemplosEstructura\obj\Debug\EjemplosEstructura.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\EjemplosEstructura\EjemplosEstructura\obj\Debug\EjemplosEstructura.pdb

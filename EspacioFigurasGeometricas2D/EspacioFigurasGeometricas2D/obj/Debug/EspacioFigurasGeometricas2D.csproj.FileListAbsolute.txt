@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\EspacioFigurasGeometricas2D\EspacioFigurasGeometricas2D\bin\Debug\EspacioFigurasGeometricas2D.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\EspacioFigurasGeometricas2D\EspacioFigurasGeometricas2D\bin\Debug\EspacioFigurasGeometricas2D.exe
+c:\users\pc\documents\visual studio 2017\Projects\EspacioFigurasGeometricas2D\EspacioFigurasGeometricas2D\bin\Debug\EspacioFigurasGeometricas2D.pdb
+c:\users\pc\documents\visual studio 2017\Projects\EspacioFigurasGeometricas2D\EspacioFigurasGeometricas2D\obj\Debug\EspacioFigurasGeometricas2D.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\EspacioFigurasGeometricas2D\EspacioFigurasGeometricas2D\obj\Debug\EspacioFigurasGeometricas2D.exe
+c:\users\pc\documents\visual studio 2017\Projects\EspacioFigurasGeometricas2D\EspacioFigurasGeometricas2D\obj\Debug\EspacioFigurasGeometricas2D.pdb

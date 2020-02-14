@@ -1,0 +1,5 @@
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\2. Fundamentos de C#\CompilacionEjecucion\CompilacionEjecucion\bin\Debug\CompilacionEjecucion.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\2. Fundamentos de C#\CompilacionEjecucion\CompilacionEjecucion\bin\Debug\CompilacionEjecucion.pdb
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\2. Fundamentos de C#\CompilacionEjecucion\CompilacionEjecucion\obj\x86\Debug\CompilacionEjecucion.csprojResolveAssemblyReference.cache
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\2. Fundamentos de C#\CompilacionEjecucion\CompilacionEjecucion\obj\x86\Debug\CompilacionEjecucion.exe
+C:\Users\ErnestoDaniel\Documents\Presentaciones_C#\C# Básico\2. Fundamentos de C#\CompilacionEjecucion\CompilacionEjecucion\obj\x86\Debug\CompilacionEjecucion.pdb

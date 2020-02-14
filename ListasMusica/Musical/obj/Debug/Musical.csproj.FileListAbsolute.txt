@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\Musical\bin\Debug\Musical.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\Musical\bin\Debug\Musical.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\Musical\obj\Debug\Musical.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\Musical\obj\Debug\Musical.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\Musical\obj\Debug\Musical.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\ListasMusica\Musical\obj\Debug\Musical.pdb
